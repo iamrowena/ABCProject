@@ -5,6 +5,7 @@ A Python game where users can learn the alphabet. It displays pictures correspon
 ## Installation
 
 To run the game, install the following Python libraries using pip:
+
 pip install pygame \
 pillow \
 pymysql \
