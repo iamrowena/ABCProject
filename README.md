@@ -11,5 +11,5 @@ pip install pyttsx3
 pip install SpeechRecognition
 
 <div align='center'>
-      <img align="center" alt="coding" width="200" src="Screenshots/Screen2.jpg">
+      <img align="center" alt="" width="200" src="Screenshots/Screen2.png">
 </div>
