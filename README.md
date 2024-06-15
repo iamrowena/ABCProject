@@ -5,13 +5,13 @@ A Python game where users can learn the alphabet. It displays pictures correspon
 ## Installation
 
 To run the game, install the following Python libraries using pip:
-pip install pygame
-pip install pillow
-pip install pymysql
-pip install gtts
-pip install playsound
-pip install pyttsx3
-pip install SpeechRecognition
+pip install pygame \
+pillow \
+pymysql \
+gtts \
+playsound \
+pyttsx3 \
+SpeechRecognition
 
 <div align='center'>
         <img align="center" alt="" width="300" height="200" src="Screenshots/Screen2.png">
