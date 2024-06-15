@@ -35,10 +35,6 @@ def connection():
 
 #Savedata to database
 def Save():
-    main()
-
-    #Save data into database
-    '''
     username = str(user.get())
     ages = str(age.get())
     if (username == "Name" or username == "") or (ages == "Age" or ages == ""):
@@ -56,7 +52,6 @@ def Save():
         except:
             messagebox.showinfo("Error", "Type name or age")
             return
-        '''
 
 #image login declaration
 img = PhotoImage(file='images\iconbg.png')
